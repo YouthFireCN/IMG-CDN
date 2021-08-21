@@ -1,2 +1,0 @@
-# IMG-CDN
-IMG-CDN
