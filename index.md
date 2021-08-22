@@ -1,6 +1,3 @@
----
-  Index
----
-# 存储图片的空间
 
+# 存储图片的空间
 img.youthfire.top
